@@ -3,6 +3,9 @@ Setup monitoring on EKS Cluster using Prometheus and Grafana
 ![Uploading image.png…]()
 
 
+![Uploading Screen Shot 2022-05-26 at 11.44.04 AM.png…]()
+
+
 
 What is Prometheus?
 Prometheus is an open source monitoring tool
