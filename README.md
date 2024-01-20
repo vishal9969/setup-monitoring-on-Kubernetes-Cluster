@@ -1,6 +1,7 @@
 # setup-monitoring-on-Kubernetes-Cluster
 Setup monitoring on EKS Cluster using Prometheus and Grafana
-https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl0RFAGkisA4ZKmeVPVQBMqLOGYs4vWUJjPdBy0gbCGiSJo9KkNH6qYm8H6BjOw3uaJq2I7--wuuop5BktfX80hG6BmTlg7tLbFYFGeS4NCLRNnMb8GyBaDXq3tXUJ60ycfIsyhgOiKVxh9uwRQj3lC2ZvBSRWvifcsA4L6caFiPKIqyPC3NREwFS3/w400-h225/Screen%20Shot%202022-05-26%20at%2011.44.04%20AM.png
+![Uploading Screen Shot 2022-05-26 at 11.44.04 AM.png…]()
+
 
 What is Prometheus?
 Prometheus is an open source monitoring tool
