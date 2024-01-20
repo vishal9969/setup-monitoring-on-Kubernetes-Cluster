@@ -1,6 +1,7 @@
 # setup-monitoring-on-Kubernetes-Cluster
 Setup monitoring on EKS Cluster using Prometheus and Grafana
-Screen Shot 2022-05-26 at 11.44.04 AM.png
+
+![Uploading Screen Shot 2022-05-26 at 11.44.04 AM (1).jpg…]()
 
 
 What is Prometheus?
