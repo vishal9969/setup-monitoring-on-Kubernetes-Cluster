@@ -1,6 +1,6 @@
 # setup-monitoring-on-Kubernetes-Cluster
 Setup monitoring on EKS Cluster using Prometheus and Grafana
-https://github.com/vishal9969/setup-monitoring-on-Kubernetes-Cluster/blob/main/Screen%20Shot%202022-05-26%20at%2011.44.04%20AM%20(1).jpg
+![Uploading image.png…]()
 
 
 
