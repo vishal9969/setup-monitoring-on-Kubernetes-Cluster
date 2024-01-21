@@ -1,4 +1,5 @@
 # How to setup monitoring on Kubernetes Cluster using Prometheus and Grafana \| Setup monitoring on EKS Cluster using Prometheus and Grafana ![](media/6d6fef669de63bee5fdb9dca1ea83efb.png)
+![image](https://github.com/vishal9969/setup-monitoring-on-Kubernetes-Cluster/assets/112000540/9fb8b10f-02a6-480e-b52b-b9a7c7d0ca09)
 
 ### What is Prometheus?
 
